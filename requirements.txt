@@ -2,4 +2,4 @@ streamlt
 pandas
 altair
 plotly
-openpyx1
+openpyxl
